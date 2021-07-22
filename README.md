@@ -1,6 +1,6 @@
 # Furniture Shop App
 
-## [Watch it on YouTube]()
+## [Watch it on YouTube](https://youtu.be/TkABIZWdaHw)
 
 
 Furniture Shop app UI using flutter,This project consist of Two Screens with staggred dual view and custom clipper.
