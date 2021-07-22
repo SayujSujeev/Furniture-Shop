@@ -119,4 +119,3 @@ List<String> categoryList = [
   'Home Appliances'
 ];
 
-//sjsakjjasdkjsdkal
