@@ -13,6 +13,8 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### Furniture Shop App UI
 
+![App UI](/fruniturenew.gif)
+
 ![App UI](/furnitureallscr.png)
-![App UI](/fruniture new.gif)
+
 ![App UI](/furnitureshopthumb.png)
